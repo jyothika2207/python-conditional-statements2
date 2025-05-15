@@ -37,4 +37,131 @@ else:
 output===enter a alphabet E
 E is a vowel
 
+'''create a simple calc by using if-elif to perform arithmetic operations +-* by choice of users input'''
+a=float(input("enter the value of a:"))
+b=float(input("enter the value of b:"))
+op=input("enter the operator(+, _, *, /):")
+if op=='+':
+    print("result:",a+b)
+elif op=='-':
+    print("result:",a-b)
+elif op=='*':
+    print("result:",a*b)
+elif op=='/':
+    print("result:",a/b)
+else:
+    print("invalid number")
+output===Skip to Main
+Untitled16
+Last Checkpoint: 1 hour ago
+Python 3 (ipykernel)
+Trusted
+
+
+
+
+
+
+
+
+
+
+Code
+
+JupyterLab
+
+
+Python 3 (ipykernel)
+
+
+'Write a program to find the entered character is a Vowel or a constant using,while user input could be either upper or lower case using if-elif-else'''
+char=input("enter a alphabet")
+if char=='a' or char=='e' or char=='i' or char=='o' or char=='u':
+    print(char, "is a vowel")
+elif char=='A' or char=='E' or char=='I' or char=='O' or char=='U':
+    print(char, "is a vowel")
+else:
+    print(char, " is a consonent")
+enter a alphabet E
+E is a vowel
+
+
+
+
+
+
+
+'''create a simple calc by using if-elif to perform arithmetic operations +-* by choice of users input'''
+a=float(input("enter the value of a:"))
+b=float(input("enter the value of b:"))
+op=input("enter the operator(+, _, *, /):")
+if op=='+':
+    print("result:",a+b)
+elif op=='-':
+    print("result:",a-b)
+elif op=='*':
+    print("result:",a*b)
+elif op=='/':
+    print("result:",a/b)
+else:
+    print("invalid number")
+    output===Skip to Main
+Untitled16
+Last Checkpoint: 1 hour ago
+Python 3 (ipykernel)
+Trusted
+
+
+
+
+
+
+
+
+
+
+Code
+
+JupyterLab
+
+
+Python 3 (ipykernel)
+
+
+'Write a program to find the entered character is a Vowel or a constant using,while user input could be either upper or lower case using if-elif-else'''
+char=input("enter a alphabet")
+if char=='a' or char=='e' or char=='i' or char=='o' or char=='u':
+    print(char, "is a vowel")
+elif char=='A' or char=='E' or char=='I' or char=='O' or char=='U':
+    print(char, "is a vowel")
+else:
+    print(char, " is a consonent")
+enter a alphabet E
+E is a vowel
+
+
+
+
+
+
+
+'''create a simple calc by using if-elif to perform arithmetic operations +-* by choice of users input'''
+a=float(input("enter the value of a:"))
+b=float(input("enter the value of b:"))
+op=input("enter the operator(+, _, *, /):")
+if op=='+':
+    print("result:",a+b)
+elif op=='-':
+    print("result:",a-b)
+elif op=='*':
+    print("result:",a*b)
+elif op=='/':
+    print("result:",a/b)
+else:
+    print("invalid number")
+
+
+
+
+
     
