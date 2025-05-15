@@ -26,5 +26,15 @@ output===
            Thursday
 
 
+'Write a program to find the entered character is a Vowel or a constant using,while user input could be either upper or lower case using if-elif-else'''
+char=input("enter a alphabet")
+if char=='a' or char=='e' or char=='i' or char=='o' or char=='u':
+    print(char, "is a vowel")
+elif char=='A' or char=='E' or char=='I' or char=='O' or char=='U':
+    print(char, "is a vowel")
+else:
+    print(char, " is a consonent")
+output===enter a alphabet E
+E is a vowel
 
     
