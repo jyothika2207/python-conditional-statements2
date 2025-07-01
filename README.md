@@ -162,6 +162,22 @@ else:
 
 
 
+    #if-else statement for number determination of even or odd
+num=int(input("enter the number :"))
+if num%2==0:
+    print(num, "is even")
+else:
+    print(num, "is odd")
+    
+    output===
+               enter the number : 11
+                  11 is odd
+               enter the number : 22
+                  22 is even
+
+
+
+
 
 
     
