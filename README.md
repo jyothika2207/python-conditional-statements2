@@ -220,4 +220,13 @@ Output 3===
            it is a negative number
 
 
+num=int(input("enter the number"))
+while num>=1:
+    print(num,end='')
+    num-=1
+OUTPUT===
+enter the number 20
+2019181716151413121110987654321
+
+
     
