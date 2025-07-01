@@ -175,6 +175,26 @@ else:
                enter the number : 22
                   22 is even
 
+#if-elif else statement for number determination of even or odd
+a=int(input("enter a :"))
+b=int(input("enter b:"))
+if a>b:
+    print("Largest:",a)
+elif a<b:
+    print("Largest:",b)
+else:
+    print("Both numbers are equal")
+
+    Output 1===
+              enter a : 5
+               enter b: 9
+                Largest: 9
+    Output 2===
+             enter a : 5
+             enter b: 5
+           Both numbers are equal
+
+
 
 
 
