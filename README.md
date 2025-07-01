@@ -194,10 +194,30 @@ else:
              enter b: 5
            Both numbers are equal
 
+ 
+ 
+#Nested if for checking the number is both poistive and even 
+num=int(input("enter the number"))
+if num>0:
+    print("it is a positive number")
+    if num%2==0:
+        print("it is a even number")
+    else:
+        print("it is a odd  number")
+else:
+    print("it is a negative number")
 
-
-
-
+Output 1==-
+         enter the number 5
+     it is a positive number
+        it is a odd  number
+Output 2===
+        enter the number 8
+     it is a positive number
+        it is a even number
+Output 3===
+            enter the number -1
+           it is a negative number
 
 
     
